@@ -46,7 +46,7 @@ At the present moment only Quest 2 native SDK app builds are being provided sinc
 
 
 #### Software:
-The proof of concept project was created using Unity and it is likely that the same workflows and platforms will be used to eat the final product, we will just tweaking the specifics of it to improve the final result.
+The proof of concept project was created using Unity and it is likely that the same workflows and platforms will be used to make the final product, we will just tweaking the specifics of it to improve the final result.
 
 To open up the project all you need to do is have a current installation of:
 
