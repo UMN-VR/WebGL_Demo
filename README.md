@@ -39,7 +39,7 @@ Video of app v1.0: https://youtu.be/eQZTAWonZkg
 * [External Links](#external-links)
 
 ## Overview
-The aim of this project is to create a virtual museum inspired on a real life one. Using the same artifacts but on you and improved virtual environment. This will give the U a global reach and cement the university's position as a pioneer in virtual reality. 
+The aim of this project is to create a virtual museum inspired on a real life one. Using the same artifacts but on a new and improved virtual environment. This will give the U a global reach and cement the university's position as a pioneer in virtual reality. 
 
 #### Hardware:
 At the present moment only Quest 2 native SDK app builds are being provided since the project is just at the proof of concept stage. Eventually the idea is to release a WebXR build and host it on a domain so that everyone can access it regardless of platform. 
